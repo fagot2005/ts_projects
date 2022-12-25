@@ -1,0 +1,2 @@
+E:\Git\ts_projects\Project1\obj\Debug\Project1.esproj.SuggestedBindingRedirects.cache
+E:\Git\ts_projects\Project1\obj\Debug\Project1.esproj.CoreCompileInputs.cache
